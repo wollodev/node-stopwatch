@@ -3,10 +3,10 @@
   "name": "stopwatch",
   "description": "A managed stopwatch for Realtime Node.JS Apps",
   "version": "0.1.0",
-  "homepage": "http://github.com/emerleite/node-stopwatch",
+  "homepage": "http://github.com/wollodev/node-stopwatch",
   "repository": {
     "type": "git",
-    "url": "git://github.com/emerleite/node-stopwatch.git"
+    "url": "git://github.com/wollodev/node-stopwatch.git"
   },
   "main": "index.js",
   "scripts": {
